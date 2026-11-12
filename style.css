@@ -1,5 +1,4 @@
 <style>
-    /* Basic page centering */
     body {
       font-family: Arial, sans-serif;
       background-color: #f4f4f9;
@@ -10,7 +9,6 @@
       margin: 0;
     }
 
-    /* Product Card Container */
     .product-card {
       background-color: #ffffff;
       border: 1px solid #e0e0e0;
@@ -26,26 +24,22 @@
       transform: translateY(-4px);
     }
 
-    /* Product Image */
     .product-image {
       width: 100%;
       height: auto;
       display: block;
     }
 
-    /* Card Content Wrapper */
     .product-info {
       padding: 20px;
     }
 
-    /* Product Name */
     .product-name {
       font-size: 1.25rem;
       color: #333333;
       margin: 0 0 10px;
     }
 
-    /* Product Price */
     .product-price {
       font-size: 1.15rem;
       font-weight: bold;
